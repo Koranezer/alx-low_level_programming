@@ -1,4 +1,4 @@
-#include <ctype.h>
+#include "main.h"
 
 /**
  * _isalpha - checks for lowercase character
